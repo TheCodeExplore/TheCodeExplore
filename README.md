@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Learn, enjoy and be updated with Code Explore ⚡️😉<br>
 
 
